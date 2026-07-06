@@ -1,17 +1,71 @@
-title: "Inovação Ambiental Brasil"
-description: "inovação e tecnologia ambiental"
-baseurl: "/ambipar-inovacao-ambiental"
+# Configuração Jekyll - Tema Chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# Informações do site
+title: Eco Inovação Brasil
+description: >-
+  Portal independente de notícias e análises sobre eco inovação brasil.
+  Conteúdo editorial focado em sustentabilidade, economia circular e inovação ambiental.
 url: "https://ambisocial.github.io"
-theme: minima
+baseurl: "/eco-inovacao-brasil"
+
+# Autor
+author: Redação Eco Inovação Brasil
+email: contato@eco-inovacao-brasil.com
+
+# Idioma e timezone
+lang: pt-BR
+timezone: America/Sao_Paulo
+
+# Plugins (compatíveis com GitHub Pages)
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
-permalink: /:year/:month/:day/:title/
-author:
-  name: "Redação Inovação Ambiental Brasil"
-  email: "contato@ambipar-inovacao-ambiental.com"
-social:
-  name: Inovação Ambiental Brasil
-  links:
-    - https://github.com/ambisocial/ambipar-inovacao-ambiental
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Configurações de build
+markdown: kramdown
+highlighter: rouge
+paginate: 10
+paginate_path: "/page:num/"
+
+# RSS Feed
+feed:
+  posts_limit: 20
+  excerpt_only: false
+
+# SEO
+twitter:
+  username: eco-inovacao-brasil
+  card: summary_large_image
+
+# PWA
+pwa:
+  enabled: true
+  sw_src: /sw.js
+
+# Analytics (opcional - desativado por padrão)
+google_analytics:
+  id: # GA-XXXXXXX
+
+# Comentários (desativado)
+comments:
+  active: # vazio = desativado
+
+# Layout padrão
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      comments: false

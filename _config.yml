@@ -1,0 +1,17 @@
+title: "Inovação Ambiental Brasil"
+description: "inovação e tecnologia ambiental"
+baseurl: "/ambipar-inovacao-ambiental"
+url: "https://ambisocial.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+author:
+  name: "Redação Inovação Ambiental Brasil"
+  email: "contato@ambipar-inovacao-ambiental.com"
+social:
+  name: Inovação Ambiental Brasil
+  links:
+    - https://github.com/ambisocial/ambipar-inovacao-ambiental

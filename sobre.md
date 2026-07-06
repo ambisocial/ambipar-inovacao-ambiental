@@ -4,16 +4,20 @@ title: Sobre
 permalink: /sobre/
 ---
 
-**Inovação Ambiental Brasil** é um veículo de comunicação independente dedicado a cobrir as principais novidades, inovações e oportunidades no setor de inovação e tecnologia ambiental.
+## Sobre o Eco Inovação Brasil
 
-Nossa missão é manter profissionais, estudantes e entusiastas informados sobre as transformações que moldam o futuro da sustentabilidade no Brasil e no mundo.
+O **Eco Inovação Brasil** é um veículo de comunicação independente dedicado a cobrir as principais novidades, inovações e oportunidades no setor de sustentabilidade e economia circular.
 
-## Linha Editorial
+### Nossa Missão
+
+Manter profissionais, estudantes e entusiastas informados sobre as transformações que moldam o futuro da sustentabilidade no Brasil e no mundo.
+
+### Linha Editorial
 
 - **Independência**: Conteúdo baseado em fatos verificáveis
-- **Relevância**: Foco em tendências e desenvolvimentos atuais
+- **Relevância**: Foco em tendências e desenvolvimentos atuais  
 - **Acessibilidade**: Linguagem clara, acessível a todos os públicos
 
-## Contato
+### Contato
 
-📧 contato@ambipar-inovacao-ambiental.com
+📧 contato@eco-inovacao-brasil.com

@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Como a Economia Circular Transforma Resíduos Industriais em Receita: Guia Completo"
-date: 2026-07-07
+date: 2026-07-07 10:30:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Carla Mendonca
-tags: ["economia-circular", "gestao-ambiental", "sustentabilidade", "inovacao"]
 ---
 
 # Como a a empresa Transforma Resíduos Industriais em Receita: Guia da Economia Circular
